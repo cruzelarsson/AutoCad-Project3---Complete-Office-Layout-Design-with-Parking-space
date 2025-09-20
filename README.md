@@ -10,7 +10,7 @@ UCS Coordinates
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Working with XRef to load different layout for building placement 
+Working with XRef to load different layout for building placement (Inner building layers were made in previous projects and imported over)
 <img width="1009" height="536" alt="image" src="https://github.com/user-attachments/assets/3f8f024d-e0e8-4ac2-bbcf-27e16c065af5" />
 
 Without any XRef loaded
