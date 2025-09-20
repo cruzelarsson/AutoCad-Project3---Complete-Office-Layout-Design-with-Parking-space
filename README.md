@@ -8,9 +8,24 @@ UCS Coordinates
 
 <img width="1544" height="909" alt="image" src="https://github.com/user-attachments/assets/a25e359b-74f3-419f-aa43-5718adffdcd4" />
 
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Working with XRef to load different layout for building placement 
+<img width="1009" height="536" alt="image" src="https://github.com/user-attachments/assets/3f8f024d-e0e8-4ac2-bbcf-27e16c065af5" />
+
+Without any XRef loaded
+<img width="1980" height="902" alt="image" src="https://github.com/user-attachments/assets/d3e8806f-e84b-4700-b854-7f76f0411987" />
+
+XRef for ground floor loaded 
+<img width="2010" height="908" alt="image" src="https://github.com/user-attachments/assets/fbecbcd8-8379-45b9-b269-878b117f7589" />
+
+XRef for first floor loaded 
+<img width="2033" height="902" alt="image" src="https://github.com/user-attachments/assets/dcf04d68-8b0c-4e17-8b51-44e5ea1fd9dc" />
+
+XRef for Rooftop loaded 
+<img width="2009" height="915" alt="image" src="https://github.com/user-attachments/assets/8a87a8c8-7698-4e36-bdf4-edb5d2248b5b" />
+
+
 Site Survay Layout for coordinates 
 
 Model Space
