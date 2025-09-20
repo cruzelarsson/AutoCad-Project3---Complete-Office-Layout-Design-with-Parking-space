@@ -25,7 +25,24 @@ XRef for first floor loaded
 XRef for Rooftop loaded 
 <img width="2009" height="915" alt="image" src="https://github.com/user-attachments/assets/8a87a8c8-7698-4e36-bdf4-edb5d2248b5b" />
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Paper Space layouts 
+
+Site Layout 
+
+<img width="1739" height="1213" alt="image" src="https://github.com/user-attachments/assets/bedc60d7-adae-406f-8cc3-fb3498c33ee5" />
+
+Landscapings 
+
+<img width="1740" height="1213" alt="image" src="https://github.com/user-attachments/assets/0c6c35d9-03d3-4e04-8879-7f1384b8da27" />
+
+Road Markings 
+
+<img width="1743" height="1212" alt="image" src="https://github.com/user-attachments/assets/ffd06f7b-a68e-4838-80f8-866db5f7e928" />
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 Site Survay Layout for coordinates 
 
 Model Space
