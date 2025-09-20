@@ -51,6 +51,7 @@ Model Space
 
 Paper Space
 
-<img width="1312" height="918" alt="image" src="https://github.com/user-attachments/assets/61524b2f-c776-4168-9ac9-8b6b48674705" />
+<img width="1755" height="1217" alt="image" src="https://github.com/user-attachments/assets/4ef21c3e-b656-40f2-ad23-9166eb3255f7" />
+
 
 
