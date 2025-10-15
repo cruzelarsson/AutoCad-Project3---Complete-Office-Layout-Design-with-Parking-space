@@ -1,10 +1,14 @@
-Description of the Project:
 Complete Office layout diagram with parking space
 •	Designed a detailed office complex with a dedicated parking lot, ensuring architectural precision with measurements down to 0.5 mm. 
+
 •	Utilized UCS coordinated, paper space annotation and XRefs to load and unload various building floors (ground, first and rooftop) seamlessly into the master design to ensure construction ready documentation closely resembling industry standards. 
+
 •	Grouped various objects of similar properties (lights, windows, doors) and placed them in separate layers for selective visibility during review and presentation. 
+
 •	Applied precision control by adding VIP freeze in paper space to make specific objects appear in selected layouts without altering the master design.
+
 •	Increased realism and useability by adding road lines in parking areas and survey points, which provide real-world reference data and building codes for construction work.
+
 •	Enhanced the design by adding proper labeling on various objects (building number, entrance, exits, staircases) in respected paper spaces models along with accurate measurements.  
 
 Model Space Layout 
