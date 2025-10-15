@@ -1,4 +1,5 @@
 Complete Office layout diagram with parking space
+
 •	Designed a detailed office complex with a dedicated parking lot, ensuring architectural precision with measurements down to 0.5 mm. 
 
 •	Utilized UCS coordinated, paper space annotation and XRefs to load and unload various building floors (ground, first and rooftop) seamlessly into the master design to ensure construction ready documentation closely resembling industry standards. 
