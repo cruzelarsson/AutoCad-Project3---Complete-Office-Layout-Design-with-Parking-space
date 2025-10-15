@@ -12,6 +12,8 @@ Complete Office layout diagram with parking space
 
 •	Enhanced the design by adding proper labeling on various objects (building number, entrance, exits, staircases) in respected paper spaces models along with accurate measurements.  
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Model Space Layout 
 
 WCS Coordinates 
