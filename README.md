@@ -13,14 +13,16 @@ Complete Office layout diagram with parking space
 •	Enhanced the design by adding proper labeling on various objects (building number, entrance, exits, staircases) in respected paper spaces models along with accurate measurements.  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+Full Zoomed Model Space Layout 
 
-Model Space Layout 
+<img width="1485" height="1014" alt="image" src="https://github.com/user-attachments/assets/cfa2f0c8-4a9b-4d0d-a576-92e50be13231" />
 
-WCS Coordinates 
+
+Model Space Layout W/ WCS Coordinates 
 
 <img width="1672" height="964" alt="image" src="https://github.com/user-attachments/assets/a90784c7-5fc0-47e1-9231-feb1a161beea" />
 
-UCS Coordinates 
+Model Space Layout W/ UCS Coordinates 
 
 <img width="1544" height="909" alt="image" src="https://github.com/user-attachments/assets/a25e359b-74f3-419f-aa43-5718adffdcd4" />
 
