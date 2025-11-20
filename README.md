@@ -53,12 +53,11 @@ Site Layout
 
 Landscapings 
 
-<img width="1740" height="1213" alt="image" src="https://github.com/user-attachments/assets/0c6c35d9-03d3-4e04-8879-7f1384b8da27" />
+<img width="1399" height="984" alt="image" src="https://github.com/user-attachments/assets/d661403d-4eb7-4e87-bcc7-96762b61738e" />
 
 Road Markings 
 
 <img width="1743" height="1212" alt="image" src="https://github.com/user-attachments/assets/ffd06f7b-a68e-4838-80f8-866db5f7e928" />
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Site Survay Layout for construction work
